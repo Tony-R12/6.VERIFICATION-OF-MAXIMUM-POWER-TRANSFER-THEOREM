@@ -26,40 +26,31 @@ The maximum power transfer theorem tells us that the load should be equal in mag
 
 **CIRCUIT DIAGRAM: FOR MAXIMUM POWER TRANSFER THEOREM:**
 
+<img width="1040" height="881" alt="image" src="https://github.com/user-attachments/assets/9dc093d8-9190-4e88-96b2-97674e8f7980" />
+
+
 
 **MODEL GRAPH:**
 
-Resistance (RL) in ohm
+<img width="1080" height="1211" alt="image" src="https://github.com/user-attachments/assets/b31019a1-058f-49c9-b6a9-07b5e2608d83" />
+
 
 **TABULATION:**
- 
-**TABLE (1) :FOR THEORETICAL CALCULATION: Rth =750 Ω**
 
-S.No	Load
-Resistance(RL) in ohm	Load
-Current (IL) in mA	Load
-voltage (VL) in volts	Load Power (PL) in watts
-1.				
-2.				
-3.				
-4.				
-5.				
-
-
-**TABLE (2): FOR PRACTICAL CALCULATION**
-
-S.No	Load
-Resistance(RL) in ohm	Load
-Current (IL) in amps	Load
-voltage (VL) in volts	Load Power (PL) in watts
-1.				
-2.				
-3.				
-4.				
-5.				
+ <img width="1047" height="988" alt="image" src="https://github.com/user-attachments/assets/fe944f1f-c4af-4737-86b5-c8e6f7ba4cb0" />
 
 
 **MODEL CALCULATION:**
+
+<img width="1080" height="833" alt="image" src="https://github.com/user-attachments/assets/4b145ada-37cc-4624-a7df-4601d38d17b8" />
+<img width="1080" height="1112" alt="image" src="https://github.com/user-attachments/assets/7843a788-3eb4-417e-9a0e-f3f39b8a25be" />
+
+**GRAPH:**
+
+<img width="950" height="1280" alt="image" src="https://github.com/user-attachments/assets/644ed38c-8d5d-4324-a8bc-d4d8b4afbc6b" />
+
+
+
 
 **PROCEDURE:**
 
